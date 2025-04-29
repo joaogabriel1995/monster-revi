@@ -24,6 +24,7 @@
     "uuidv4": "^6.2.13"
   },
   "prisma": {
-    "schema": "src/infrastructure/database/prisma/schema.prisma"
+    "schema": "src/infrastructure/database/prisma/schema.prisma",
+    "seed": "ts-node --transpile-only src/infrastructure/database/seed.ts"
   }
 }

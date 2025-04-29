@@ -49,15 +49,3 @@ Este repositório contém o **backend** e o **frontend** para gerenciamento de m
    ```bash
    npm run dev
    ```
-
-## Endpoints (Backend)
-*(Adicione aqui a lista de endpoints disponíveis e suas descrições)*
-
-## Contribuição
-Sinta-se à vontade para:
-- Abrir issues para reportar bugs ou sugerir melhorias.
-- Enviar pull requests com correções ou novas funcionalidades.
-
-## Licença
-Este projeto está licenciado sob a MIT License.
-
